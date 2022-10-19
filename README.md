@@ -7,3 +7,9 @@
 
 ### Dynamic Programming
 [LC132](https://leetcode.com/problems/palindrome-partitioning-ii/)
+[LC516](https://leetcode.com/problems/longest-palindromic-subsequence/)
+[LC1745](https://leetcode.com/problems/palindrome-partitioning-iv/)
+
+### Segment Tree/Fenwick Tree
+[LC307](https://leetcode.com/problems/range-sum-query-mutable/)
+
