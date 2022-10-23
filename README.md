@@ -1,3 +1,8 @@
+## Overview
+<p>This repo contains some of my personal solutions to  <b>LeetCode Hard</b> and <b>Codeforces</b> problems</p>
+
+## Algorithms
+
 ### Binary Search
 [LC1847](https://leetcode.com/problems/closest-room/)
 
