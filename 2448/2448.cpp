@@ -3,6 +3,7 @@
 #include <utility>
 using namespace std;
 
+// both methods are O(nlogn)
 
 // method 1: prefix sum array
 /**
@@ -39,6 +40,8 @@ public:
 */
 
 // method 2: Ternary Search
+// https://cp-algorithms.com/num_methods/ternary_search.html
+// f(x) must be unimodal on the interval
 class Solution {
 public:
     long long minCost(vector<int>& nums, vector<int>& cost) {
