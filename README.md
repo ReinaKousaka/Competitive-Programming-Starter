@@ -13,6 +13,9 @@
 [LC286](https://leetcode.com/problems/walls-and-gates/)
 [LC2440](https://leetcode.com/problems/create-components-with-same-value/)
 
+### Dijkstra
+[CF20C](https://codeforces.com/problemset/problem/20/C)
+
 ### Dynamic Programming
 [LC132](https://leetcode.com/problems/palindrome-partitioning-ii/)
 [LC516](https://leetcode.com/problems/longest-palindromic-subsequence/)
