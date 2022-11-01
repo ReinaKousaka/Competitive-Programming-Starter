@@ -34,6 +34,7 @@
 
 ### Segment Tree/Fenwick Tree
 [LC307](https://leetcode.com/problems/range-sum-query-mutable/)
+[LC732](https://leetcode.com/problems/my-calendar-iii/submissions/)
 
 ### Sparse Table
 
