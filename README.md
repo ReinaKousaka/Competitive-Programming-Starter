@@ -10,7 +10,7 @@
 [LC2448](https://leetcode.com/problems/minimum-cost-to-make-array-equal/)
 
 ### Greedy
-[LC2136](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/submissions/)
+[LC2136](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/)
 
 ### Dynamic Programming
 [LC132](https://leetcode.com/problems/palindrome-partitioning-ii/)
@@ -23,6 +23,7 @@
 ### DFS/BFS
 [LC286](https://leetcode.com/problems/walls-and-gates/)
 [LC2440](https://leetcode.com/problems/create-components-with-same-value/)
+[LC2458](https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/)
 
 ### Dijkstra
 [CF20C](https://codeforces.com/problemset/problem/20/C)
@@ -34,7 +35,7 @@
 
 ### Segment Tree/Fenwick Tree
 [LC307](https://leetcode.com/problems/range-sum-query-mutable/)
-[LC732](https://leetcode.com/problems/my-calendar-iii/submissions/)
+[LC732](https://leetcode.com/problems/my-calendar-iii/)
 
 ### Sparse Table
 
