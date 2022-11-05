@@ -24,6 +24,7 @@ public:
             curr->word = word;
         }
 
+        // set to remove duplicate
         unordered_set<string> set;
         for (int i = 0; i < board.size(); i++) {
             for (int j = 0; j < board[0].size(); j++) {
