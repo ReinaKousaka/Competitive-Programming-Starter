@@ -33,6 +33,7 @@
 [CF20C](https://codeforces.com/problemset/problem/20/C)
 
 #### Hungarian Algorithm (Kuhn-Munkres)
+[LC2172](https://leetcode.com/problems/maximum-and-sum-of-array/)
 [LC2463](https://leetcode.com/problems/minimum-total-distance-traveled/)
 
 ### Range Query, RMQ
