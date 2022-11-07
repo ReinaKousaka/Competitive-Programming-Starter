@@ -20,12 +20,11 @@
 #### Sliding Window
 [LC487](https://leetcode.com/problems/max-consecutive-ones-ii/)
 
-#### BFS/DFS(Backtrack)
+#### BFS/DFS (Backtrack)
 [LC212](https://leetcode.com/problems/word-search-ii/)
 [LC286](https://leetcode.com/problems/walls-and-gates/)
 [LC2440](https://leetcode.com/problems/create-components-with-same-value/)
 [LC2458](https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/)
-
 
 #### Trie
 [LC212](https://leetcode.com/problems/word-search-ii/)
@@ -33,6 +32,8 @@
 #### Dijkstra
 [CF20C](https://codeforces.com/problemset/problem/20/C)
 
+#### Hungarian Algorithm (Kuhn-Munkres)
+[LC2463](https://leetcode.com/problems/minimum-total-distance-traveled/)
 
 ### Range Query, RMQ
 #### Prefix Sum
