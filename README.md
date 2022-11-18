@@ -17,8 +17,10 @@
 [LC516](https://leetcode.com/problems/longest-palindromic-subsequence/)
 [LC1745](https://leetcode.com/problems/palindrome-partitioning-iv/)
 
-#### Sliding Window
+#### Sliding Window, Monotone Stack/Queue
+[LC239](https://leetcode.com/problems/sliding-window-maximum/)
 [LC487](https://leetcode.com/problems/max-consecutive-ones-ii/)
+[LC1696](https://leetcode.com/problems/jump-game-vi/)
 
 #### Union Find
 [LC827](https://leetcode.com/problems/making-a-large-island/)
