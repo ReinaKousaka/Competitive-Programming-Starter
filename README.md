@@ -20,6 +20,9 @@
 #### Sliding Window
 [LC487](https://leetcode.com/problems/max-consecutive-ones-ii/)
 
+#### Union Find
+[LC827](https://leetcode.com/problems/making-a-large-island/)
+
 #### BFS/DFS (Backtrack)
 [LC212](https://leetcode.com/problems/word-search-ii/)
 [LC286](https://leetcode.com/problems/walls-and-gates/)
