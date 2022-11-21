@@ -41,6 +41,9 @@
 [LC2172](https://leetcode.com/problems/maximum-and-sum-of-array/)
 [LC2463](https://leetcode.com/problems/minimum-total-distance-traveled/)
 
+#### KMP algorithm (Knuth–Morris–Pratt)
+[LC28](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
+
 ### Range Query, RMQ
 #### Prefix Sum
 [LC2448](https://leetcode.com/problems/minimum-cost-to-make-array-equal/)
