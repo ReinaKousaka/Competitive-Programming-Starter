@@ -43,6 +43,7 @@ int KMP(const string& s, const string& p) {
     return -1;
 }
 
+
 class Solution {
 public:
     int strStr(string haystack, string needle) {
