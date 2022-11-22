@@ -43,6 +43,7 @@
 
 #### KMP algorithm (Knuth–Morris–Pratt)
 [LC28](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
+[LC214](https://leetcode.com/problems/shortest-palindrome/)
 
 ### Range Query, RMQ
 #### Prefix Sum
