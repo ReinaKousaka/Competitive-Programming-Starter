@@ -41,7 +41,10 @@
 #### Bipartite Graph
 [CF1144F](https://codeforces.com/problemset/problem/1144/F)
 
-#### Hungarian Algorithm (Kuhn-Munkres)
+#### Floyd-Warshall algorithm
+[CF295B](https://codeforces.com/problemset/problem/295/B)
+
+#### Hungarian algorithm (Kuhn-Munkres)
 [LC2172](https://leetcode.com/problems/maximum-and-sum-of-array/)
 [LC2463](https://leetcode.com/problems/minimum-total-distance-traveled/)
 
