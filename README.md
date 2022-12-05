@@ -11,6 +11,7 @@
 
 #### Greedy
 [LC2136](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/)
+[CF102511A](https://codeforces.com/problemset/gymProblem/102511/A)
 
 #### Dynamic Programming
 [LC132](https://leetcode.com/problems/palindrome-partitioning-ii/)
