@@ -52,7 +52,7 @@ class Solution:
 
         # calculate diameter
         def bfs(vertex: int) -> int:
-            visited = set(vertex)
+            visited = set([vertex])
             q = deque([vertex])
             depth = 0
             while len(q):
@@ -70,5 +70,5 @@ class Solution:
         diameters = defaultdict(int)
         for i, color in enumerate(colors):
             if not color and not dfs(i, colors): return -1
-            diameters[dsu.find(i)] = max(diameters[dsu.find(i)], bfs(i) + 1)
+            diameters[dsu.find(i)] = max(diameters[dsu.find(i)], bfs(i))
         return sum(diameters.values())
