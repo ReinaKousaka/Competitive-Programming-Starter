@@ -41,6 +41,7 @@
 
 #### Bipartite Graph
 [CF1144F](https://codeforces.com/problemset/problem/1144/F)
+[LC2493](https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups/)
 
 #### Floyd-Warshall algorithm
 [CF295B](https://codeforces.com/problemset/problem/295/B)
