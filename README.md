@@ -55,8 +55,9 @@
 [LC214](https://leetcode.com/problems/shortest-palindrome/)
 
 ### Range Query, RMQ
-#### Prefix Sum
+#### Prefix Sum, Difference
 [LC2448](https://leetcode.com/problems/minimum-cost-to-make-array-equal/)
+[LC2536](https://leetcode.com/problems/increment-submatrices-by-one/)
 
 #### Segment Tree/Fenwick Tree
 [LC307](https://leetcode.com/problems/range-sum-query-mutable/)
