@@ -17,6 +17,7 @@
 [LC132](https://leetcode.com/problems/palindrome-partitioning-ii/)
 [LC516](https://leetcode.com/problems/longest-palindromic-subsequence/)
 [LC1745](https://leetcode.com/problems/palindrome-partitioning-iv/)
+[LC2538](https://leetcode.com/problems/difference-between-maximum-and-minimum-price-sum/)
 [LC2547](https://leetcode.com/problems/minimum-cost-to-split-an-array/)
 
 #### Sliding Window, Monotone Stack/Queue
