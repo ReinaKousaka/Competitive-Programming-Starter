@@ -20,6 +20,9 @@ This repo contains some of my personal solutions to  **LeetCode (Mostly Hard)** 
   [LC2518](https://leetcode.com/problems/number-of-great-partitions/)
   [LC2538](https://leetcode.com/problems/difference-between-maximum-and-minimum-price-sum/)
   [LC2547](https://leetcode.com/problems/minimum-cost-to-split-an-array/)
+  
+  + **SOS DP** [tutorial](https://codeforces.com/blog/entry/45223)
+    + [CF407259B](https://codeforces.com/gym/407259/problem/B)
 
 - **Sliding Window, Monotone Stack/Queue**
   - [LC239](https://leetcode.com/problems/sliding-window-maximum/)
