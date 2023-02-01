@@ -4,7 +4,7 @@ This repo contains some of my personal solutions to  **LeetCode (Mostly Hard)** 
 ### Algorithms
 
 - **Binary Search**
-    - [LC1847](https://leetcode.com/problems/closest-room/)
+  - [LC1847](https://leetcode.com/problems/closest-room/)
 
 + **Ternary Search**
   + [LC2448](https://leetcode.com/problems/minimum-cost-to-make-array-equal/)
@@ -76,3 +76,8 @@ This repo contains some of my personal solutions to  **LeetCode (Mostly Hard)** 
 
 - **Binary Exponentiation**
   - [LC2550](https://leetcode.com/problems/count-collisions-of-monkeys-on-a-polygon/)
+
+### Miscellaneous
+
+- **Bitmask** [tutorial1](https://www.topcoder.com/thrive/articles/A%20bit%20of%20fun:%20fun%20with%20bits)   [tutorial2](https://codeforces.com/blog/entry/81516)
+  - [CF1778C](https://codeforces.com/problemset/problem/1778/C)
