@@ -69,6 +69,9 @@ This repo contains some of my personal solutions to  **LeetCode (Mostly Hard)** 
 + **Segment Tree/Fenwick Tree**
   + [LC307](https://leetcode.com/problems/range-sum-query-mutable/)
   [LC732](https://leetcode.com/problems/my-calendar-iii/)
+  [CF380C](https://codeforces.com/contest/380/problem/C)
+
+- **Heavy-light decomposition**
 
 - **Sparse Table**
 
@@ -81,3 +84,5 @@ This repo contains some of my personal solutions to  **LeetCode (Mostly Hard)** 
 
 - **Bitmask** [tutorial1](https://www.topcoder.com/thrive/articles/A%20bit%20of%20fun:%20fun%20with%20bits)   [tutorial2](https://codeforces.com/blog/entry/81516)
   - [CF1778C](https://codeforces.com/problemset/problem/1778/C)
+
+- **XOR** [tutorial](https://codeforces.com/blog/entry/68953)
