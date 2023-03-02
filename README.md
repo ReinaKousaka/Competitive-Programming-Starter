@@ -1,5 +1,5 @@
 ## Overview
-This repo contains some of my personal solutions to  **LeetCode (Mostly Hard)** and **Codeforces** problems
+This repo contains some of my personal solutions to  **LeetCode, Codeforces, Luogu** (Chinese only) problems
 
 ### Algorithms
 
@@ -67,7 +67,11 @@ This repo contains some of my personal solutions to  **LeetCode (Mostly Hard)** 
   [LC2536](https://leetcode.com/problems/increment-submatrices-by-one/)
 
 + **Segment Tree/Fenwick Tree**
-  + [LC307](https://leetcode.com/problems/range-sum-query-mutable/)
+  + [LG3372](https://www.luogu.com.cn/problem/P3372)
+  [LG3373](https://www.luogu.com.cn/problem/P3373)
+  [LG1047](https://www.luogu.com.cn/problem/P1047)
+  [LG1531](https://www.luogu.com.cn/problem/P1531)
+  [LC307](https://leetcode.com/problems/range-sum-query-mutable/)
   [LC732](https://leetcode.com/problems/my-calendar-iii/)
   [CF380C](https://codeforces.com/contest/380/problem/C)
 
