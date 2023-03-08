@@ -72,7 +72,8 @@ This repo contains some of my personal solutions to  **LeetCode, Codeforces, Luo
   - [CF295B](https://codeforces.com/problemset/problem/295/B)
 
 - **Heavy-light decomposition**
-  - [LG3384](https://www.luogu.com.cn/problem/P3384)
+  - [LG3379](https://www.luogu.com.cn/problem/P3379)
+  [LG3384](https://www.luogu.com.cn/problem/P3384)
 
 - **Bipartite Graph**
   - [CF1144F](https://codeforces.com/problemset/problem/1144/F) 

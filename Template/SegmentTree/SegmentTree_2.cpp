@@ -1,7 +1,4 @@
-#include <bits/stdc++.h>
-using namespace std;
-
-typedef long long ll;
+#include <vector>
 
 // LazySegmentTree supporting +
 template <typename T>
@@ -19,12 +16,12 @@ struct LazySegmentTree {
         build(1, 1, size);
     }
 
-    LazySegmentTree(const std::vector<T>& data): size(data.size()) {
+    LazySegmentTree(const std::vector<int>& data): size(data.size()) {
         tree.resize(size * 4 + 1);
         build(1, 1, size, data);
     }
 
-    void build(int i, int start, int end, const std::vector<T>& data = std::vector<T>()) {
+    void build(int i, int start, int end, const std::vector<int>& data = std::vector<int>()) {
         tree[i].start = start;
         tree[i].end = end;
         if (start == end) {
@@ -76,28 +73,3 @@ struct LazySegmentTree {
         return res;
     }
 };
-
-
-int main() {
-    ios_base::sync_with_stdio(false);
-    cin.tie(nullptr);
-
-    int n, m;
-    cin >> n >> m;
-    vector<ll> arr(n);
-    for (int i = 0; i < n; i++) cin >> arr[i];
-
-    LazySegmentTree<ll> seg(arr);
-    while (m--) {
-        int t, x, y, z;
-        cin >> t;
-        if (t == 1) {
-            cin >> x >> y >> z;
-            seg.update(x, y, z);
-        } else {
-            cin >> x >> y;
-            cout << seg.query(x, y) << "\n";
-        }
-    }
-    return 0;
-}
