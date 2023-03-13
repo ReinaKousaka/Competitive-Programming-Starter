@@ -35,6 +35,7 @@ This repo contains some of my personal solutions to  **LeetCode, Codeforces, Luo
 - **Greedy**
   - [LC2136](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/)
   [CF102511A](https://codeforces.com/problemset/gymProblem/102511/A)
+  [CF1804B](https://codeforces.com/problemset/problem/1804/B)
 
 - **Dynamic Programming**
   - [LC132](https://leetcode.com/problems/palindrome-partitioning-ii/)
@@ -101,5 +102,6 @@ This repo contains some of my personal solutions to  **LeetCode, Codeforces, Luo
 
 - **Bitmask** [tutorial1](https://www.topcoder.com/thrive/articles/A%20bit%20of%20fun:%20fun%20with%20bits)   [tutorial2](https://codeforces.com/blog/entry/81516)
   - [CF1778C](https://codeforces.com/problemset/problem/1778/C)
+  [LC1915](https://leetcode.com/problems/number-of-wonderful-substrings/)
 
 - **XOR** [tutorial](https://codeforces.com/blog/entry/68953)
