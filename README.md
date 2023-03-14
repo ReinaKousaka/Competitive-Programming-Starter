@@ -23,6 +23,8 @@ This repo contains some of my personal solutions to  **LeetCode, Codeforces, Luo
   [CF380C](https://codeforces.com/contest/380/problem/C)
 
 - **Sparse Table**
+  -[LG3865](https://www.luogu.com.cn/problem/P3865)
+  [LG2251](https://www.luogu.com.cn/problem/P2251)
 
 ## Algorithms
 
