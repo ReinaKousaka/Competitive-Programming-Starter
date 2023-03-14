@@ -18,12 +18,13 @@ This repo contains some of my personal solutions to  **LeetCode, Codeforces, Luo
   [LG3373](https://www.luogu.com.cn/problem/P3373)
   [LG1047](https://www.luogu.com.cn/problem/P1047)
   [LG1531](https://www.luogu.com.cn/problem/P1531)
+  [LG4588](https://www.luogu.com.cn/problem/P4588)
   [LC307](https://leetcode.com/problems/range-sum-query-mutable/)
   [LC732](https://leetcode.com/problems/my-calendar-iii/)
   [CF380C](https://codeforces.com/contest/380/problem/C)
 
 - **Sparse Table**
-  -[LG3865](https://www.luogu.com.cn/problem/P3865)
+  - [LG3865](https://www.luogu.com.cn/problem/P3865)
   [LG2251](https://www.luogu.com.cn/problem/P2251)
 
 ## Algorithms
