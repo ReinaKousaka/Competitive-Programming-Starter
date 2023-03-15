@@ -13,7 +13,7 @@ This repo contains some of my personal solutions to  **LeetCode, Codeforces, Luo
   - [LC2448](https://leetcode.com/problems/minimum-cost-to-make-array-equal/)
   [LC2536](https://leetcode.com/problems/increment-submatrices-by-one/)
 
-- **Segment Tree/Fenwick Tree**
+- **Segment Tree, Fenwick Tree** [tutorial](https://codeforces.com/blog/entry/18051)
   - [LG3372](https://www.luogu.com.cn/problem/P3372)
   [LG3373](https://www.luogu.com.cn/problem/P3373)
   [LG1047](https://www.luogu.com.cn/problem/P1047)
@@ -22,10 +22,14 @@ This repo contains some of my personal solutions to  **LeetCode, Codeforces, Luo
   [LC307](https://leetcode.com/problems/range-sum-query-mutable/)
   [LC732](https://leetcode.com/problems/my-calendar-iii/)
   [CF380C](https://codeforces.com/contest/380/problem/C)
+  [CF242E](https://codeforces.com/problemset/problem/242/E)
 
 - **Sparse Table**
   - [LG3865](https://www.luogu.com.cn/problem/P3865)
   [LG2251](https://www.luogu.com.cn/problem/P2251)
+
+- **BST: Treap, Splay, AVL**
+  - [LG3369](https://www.luogu.com.cn/problem/solution/P3369)
 
 ## Algorithms
 
@@ -62,7 +66,7 @@ This repo contains some of my personal solutions to  **LeetCode, Codeforces, Luo
 
 ## Graph Theory
 
-- **BFS / DFS (Backtrack)**
+- **BFS, DFS (Backtrack)**
   - [LC212](https://leetcode.com/problems/word-search-ii/) 
       [LC286](https://leetcode.com/problems/walls-and-gates/)
       [LC2440](https://leetcode.com/problems/create-components-with-same-value/)
