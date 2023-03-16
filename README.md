@@ -109,7 +109,12 @@ This repo contains some of my personal solutions to  **LeetCode, Codeforces, Luo
 
 ## Miscellaneous
 
-- **Bitmask** [tutorial1](https://www.topcoder.com/thrive/articles/A%20bit%20of%20fun:%20fun%20with%20bits)   [tutorial2](https://codeforces.com/blog/entry/81516)
+- **Bitmask**
+  [tutorial1](https://www.topcoder.com/thrive/articles/A%20bit%20of%20fun:%20fun%20with%20bits),
+  [tutorial2](https://codeforces.com/blog/entry/81516)
+  - Bitwise Operations
+    [tutorial](https://codeforces.com/blog/entry/73490),
+    [tut-popcount](https://codeforces.com/blog/entry/13134)
   - [CF1778C](https://codeforces.com/problemset/problem/1778/C)
     [LC1915](https://leetcode.com/problems/number-of-wonderful-substrings/)
 
