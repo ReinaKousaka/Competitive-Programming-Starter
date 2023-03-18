@@ -29,6 +29,16 @@ This repo contains some of my personal solutions to  **LeetCode, Codeforces, Luo
   - [LG3865](https://www.luogu.com.cn/problem/P3865)
   [LG2251](https://www.luogu.com.cn/problem/P2251)
 
+- **Sqrt Decomposition**
+  - **Mo's Algorithm**
+    [tutorial1](https://cp-algorithms.com/data_structures/sqrt_decomposition.html#mos-algorithm),
+    [tutorial2](https://codeforces.com/blog/entry/72690)
+    - [LG2709](https://www.luogu.com.cn/problem/P2709)
+  - **Mo's Algorithm on Trees**
+    [tutorial1](https://codeforces.com/blog/entry/43230),
+    [tutorial2](https://codeforces.com/blog/entry/68271)
+    - [CF1806E](https://codeforces.com/problemset/problem/1806/E)
+
 - **BST: Treap, Splay, AVL**
   - [LG3369](https://www.luogu.com.cn/problem/solution/P3369)
 
