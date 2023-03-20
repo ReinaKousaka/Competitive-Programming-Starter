@@ -1,7 +1,5 @@
 #include <vector>
 #include <cmath>
-#include <iostream>
-using namespace std;
 
 
 /**
@@ -56,29 +54,3 @@ struct LCA {
 		return up[u][0];
 	}
 };
-
-
-int main() {
-	ios_base::sync_with_stdio(0);
-	cin.tie(0);
-	
-	int n, m, s;
-	cin >> n >> m >> s;
-
-	LCA lca(n);
-
-	for (int i = 0; i < n - 1; i++) {
-		int x, y;
-		cin >> x >> y;
-		lca.add_edge(x - 1, y - 1);
-	}
-	lca.init(s - 1);
-
-	while (m--) {
-		int a, b;
-		cin >> a >> b;
-		a--; b--;
-		cout << lca.lca(a, b) + 1 << "\n";
-	}
-	return 0;
-}

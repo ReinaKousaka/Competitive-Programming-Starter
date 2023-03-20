@@ -57,14 +57,14 @@ std::vector<long long> mo_s_algorithm() {
 	int l = 0, r = -1;   // always reflect the range [l, r]
 	std::vector<long long> res(q);
 
-	for (int i = 0; i < q; i++) {
-		while (queries[i].l < l) Add(--l);
-		while (queries[i].r > r) Add(++r);
-		while (queries[i].l > l) Sub(l++);
-		while (queries[i].r < r) Sub(r--);
+	for (auto query: queries) {
+		while (query.l < l) Add(--l);
+		while (query.r > r) Add(++r);
+		while (query.l > l) Sub(l++);
+		while (query.r < r) Sub(r--);
 
 		// mark down answers
-		res[queries[i].idx] = get_answer();
+		res[query.idx] = get_answer();
 	}
 	return res;
 }
