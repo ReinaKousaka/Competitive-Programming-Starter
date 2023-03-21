@@ -1,5 +1,5 @@
 # Overview
-This repo contains some of my personal solutions to  **LeetCode, Codeforces, Luogu** (Chinese only) problems, as well as some frequently used templates.
+This repo contains some of my personal solutions to  **LeetCode, Codeforces, Luogu** (Chinese only) problems, as well as some frequently used templates. Most code are tested on GNU G++17 7.3.0
 
 ## Data Structures
 
@@ -35,6 +35,7 @@ This repo contains some of my personal solutions to  **LeetCode, Codeforces, Luo
     [tutorial2](https://codeforces.com/blog/entry/72690)
     - [LG2709](https://www.luogu.com.cn/problem/P2709)
       [LG1494](https://www.luogu.com.cn/problem/P1494)
+      [CF617E](https://codeforces.com/problemset/problem/617/E)
   - **Mo's Algorithm on Trees**
     [tutorial1](https://codeforces.com/blog/entry/43230),
     [tutorial2](https://codeforces.com/blog/entry/68271)
@@ -88,8 +89,9 @@ This repo contains some of my personal solutions to  **LeetCode, Codeforces, Luo
     [LC2458](https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/)
     [LC2493](https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups/)
 
-- **Dijkstra's algorithm**
+- **Dijkstra's algorithm, SPFA**
   - [CF20C](https://codeforces.com/problemset/problem/20/C)
+    [LG4779](https://www.luogu.com.cn/problem/P4779)
 
 - **Floyd-Warshall algorithm**
   - [CF295B](https://codeforces.com/problemset/problem/295/B)
@@ -133,3 +135,4 @@ This repo contains some of my personal solutions to  **LeetCode, Codeforces, Luo
     [LC1915](https://leetcode.com/problems/number-of-wonderful-substrings/)
 
 - **XOR** [tutorial](https://codeforces.com/blog/entry/68953)
+  - [CF617E](https://codeforces.com/problemset/problem/617/E)
