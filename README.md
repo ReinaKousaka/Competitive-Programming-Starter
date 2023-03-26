@@ -1,6 +1,9 @@
 # Overview
 This repo contains some of my personal solutions to  **LeetCode, Codeforces, Luogu** (Chinese only) problems, as well as some frequently used templates. Most code are tested on GNU G++17 7.3.0
 
+## General Tutorials
+- [About C++ inbuilt math functions](https://codeforces.com/blog/entry/107717)
+
 ## Data Structures
 
 - **Union Find**
@@ -96,18 +99,21 @@ This repo contains some of my personal solutions to  **LeetCode, Codeforces, Luo
 - **Floyd-Warshall algorithm**
   - [CF295B](https://codeforces.com/problemset/problem/295/B)
 
+- **Tarjan's SCC algorithm**
+  - [LG3387](https://www.luogu.com.cn/problem/P3387)
+
 - **Heavy-light decomposition**
   - [LG3379](https://www.luogu.com.cn/problem/P3379)
     [LG3384](https://www.luogu.com.cn/problem/P3384)
     [CF620E](https://codeforces.com/problemset/problem/620/E)
 
-- **Bipartite Graph**
-  - [CF1144F](https://codeforces.com/problemset/problem/1144/F) 
-    [LC2493](https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups/)
-
-- **Hungarian algorithm (Kuhn-Munkres)**
-  - [LC2172](https://leetcode.com/problems/maximum-and-sum-of-array/)
-    [LC2463](https://leetcode.com/problems/minimum-total-distance-traveled/)
+- **Matching Problems**
+  - **Bipartite Graph**
+    - [CF1144F](https://codeforces.com/problemset/problem/1144/F) 
+      [LC2493](https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups/)
+  - **Hungarian algorithm (Kuhn-Munkres)**
+    - [LC2172](https://leetcode.com/problems/maximum-and-sum-of-array/)
+      [LC2463](https://leetcode.com/problems/minimum-total-distance-traveled/)
 
 ## Algebra
 
