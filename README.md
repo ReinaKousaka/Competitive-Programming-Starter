@@ -102,6 +102,9 @@ This repo contains some of my personal solutions to  **LeetCode, Codeforces, Luo
 - **Tarjan's SCC algorithm**
   - [LG3387](https://www.luogu.com.cn/problem/P3387)
 
+- **Diameter** [tutorial](https://codeforces.com/blog/entry/101271)
+  - [CF1805D](https://codeforces.com/problemset/problem/1805/D)
+
 - **Heavy-light decomposition**
   - [LG3379](https://www.luogu.com.cn/problem/P3379)
     [LG3384](https://www.luogu.com.cn/problem/P3384)
