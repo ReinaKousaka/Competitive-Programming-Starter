@@ -52,7 +52,7 @@ This repo contains some of my personal solutions to  **LeetCode, Codeforces, Luo
 
 ## Algorithms
 
-- **Binary Search**
+- **Binary Search** [tutorial](https://codeforces.com/blog/entry/96699)
   - [LC1847](https://leetcode.com/problems/closest-room/)
 
 - **Ternary Search**
@@ -104,6 +104,7 @@ This repo contains some of my personal solutions to  **LeetCode, Codeforces, Luo
 
 - **Diameter** [tutorial](https://codeforces.com/blog/entry/101271)
   - [CF1805D](https://codeforces.com/problemset/problem/1805/D)
+    [CF1146C](https://codeforces.com/contest/1146/problem/C)
 
 - **Heavy-light decomposition**
   - [LG3379](https://www.luogu.com.cn/problem/P3379)
