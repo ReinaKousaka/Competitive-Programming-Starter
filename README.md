@@ -61,6 +61,7 @@ This repo contains some of my personal solutions to  **LeetCode, Codeforces, Luo
 - **Greedy**
   - [LC2136](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/)
   [CF102511A](https://codeforces.com/problemset/gymProblem/102511/A)
+  [CF1774B](https://codeforces.com/problemset/problem/1774/B)
   [CF1804B](https://codeforces.com/problemset/problem/1804/B)
 
 - **Dynamic Programming**
@@ -71,6 +72,7 @@ This repo contains some of my personal solutions to  **LeetCode, Codeforces, Luo
     [LC2538](https://leetcode.com/problems/difference-between-maximum-and-minimum-price-sum/)
     [LC2547](https://leetcode.com/problems/minimum-cost-to-split-an-array/)
     [CF1809D](https://codeforces.com/problemset/problem/1809/D)
+    [CF1801C](https://codeforces.com/problemset/problem/1801/C)
     
   - **SOS DP** [tutorial](https://codeforces.com/blog/entry/45223)
     - [CF407259B](https://codeforces.com/gym/407259/problem/B)
