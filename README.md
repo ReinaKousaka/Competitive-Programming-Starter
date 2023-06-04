@@ -81,6 +81,7 @@ This repo contains some of my personal solutions to  **LeetCode, Codeforces, Luo
     [tutorial2](https://codeforces.com/blog/entry/53960)
     - [CF1036C](https://codeforces.com/problemset/problem/1036/C)
       [CF1808C](https://codeforces.com/problemset/problem/1808/C)
+      [LC2719](https://leetcode.com/problems/count-of-integers/)
 
 - **Sliding Window, Monotone Stack/Queue**
   - [LC239](https://leetcode.com/problems/sliding-window-maximum/)
