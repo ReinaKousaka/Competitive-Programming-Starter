@@ -91,6 +91,7 @@ This repo contains some of my personal solutions to  **LeetCode, Codeforces, Luo
 - **KMP algorithm (Knuth–Morris–Pratt)**
   - [LC28](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
     [LC214](https://leetcode.com/problems/shortest-palindrome/)
+    [LC3008](https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii/)
 
 ## Graph Theory
 

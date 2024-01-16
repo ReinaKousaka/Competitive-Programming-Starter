@@ -4,8 +4,9 @@
 /**
  * Fenwick Tree template, reference: @jiangly: https://codeforces.com/profile/jiangly
  * .add(x, delta): 0-indexed
- * .sum(x): sum from x-th element to the end, with a dummy 0 at the beginning
+ * .sum(x): prefix sum, with a dummy 0 at the beginning
  * .rangeSum(l, r): sum of interval [l, r]
+ * .kth(k): return smallest x s.t. prefixsum(x) >= k
  * */
 template <class T>
 class Fenwick {
