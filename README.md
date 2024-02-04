@@ -6,6 +6,11 @@ This repo contains some of my personal solutions to  **LeetCode, Codeforces, Luo
 
 ## Data Structures
 
+- **Sliding Window, Monotone Stack/Queue**
+  - [LC239](https://leetcode.com/problems/sliding-window-maximum/)
+    [LC487](https://leetcode.com/problems/max-consecutive-ones-ii/)
+    [LC1696](https://leetcode.com/problems/jump-game-vi/)
+
 - **Union Find**
   - [LC827](https://leetcode.com/problems/making-a-large-island/)
 
@@ -50,7 +55,7 @@ This repo contains some of my personal solutions to  **LeetCode, Codeforces, Luo
 
 - **Sqrt Tree**
 
-## Algorithms
+## Numerical Methods
 
 - **Binary Search** [tutorial](https://codeforces.com/blog/entry/96699)
   - [LC1847](https://leetcode.com/problems/closest-room/)
@@ -58,13 +63,16 @@ This repo contains some of my personal solutions to  **LeetCode, Codeforces, Luo
 - **Ternary Search**
   - [LC2448](https://leetcode.com/problems/minimum-cost-to-make-array-equal/)
 
+
+## Dynamic Programming
+
 - **Greedy**
   - [LC2136](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/)
   [CF102511A](https://codeforces.com/problemset/gymProblem/102511/A)
   [CF1774B](https://codeforces.com/problemset/problem/1774/B)
   [CF1804B](https://codeforces.com/problemset/problem/1804/B)
 
-- **Dynamic Programming**
+- **Basic DP**
   - [LC132](https://leetcode.com/problems/palindrome-partitioning-ii/)
     [LC516](https://leetcode.com/problems/longest-palindromic-subsequence/)
     [LC1745](https://leetcode.com/problems/palindrome-partitioning-iv/)
@@ -83,10 +91,7 @@ This repo contains some of my personal solutions to  **LeetCode, Codeforces, Luo
       [CF1808C](https://codeforces.com/problemset/problem/1808/C)
       [LC2719](https://leetcode.com/problems/count-of-integers/)
 
-- **Sliding Window, Monotone Stack/Queue**
-  - [LC239](https://leetcode.com/problems/sliding-window-maximum/)
-    [LC487](https://leetcode.com/problems/max-consecutive-ones-ii/)
-    [LC1696](https://leetcode.com/problems/jump-game-vi/)
+## String Processing
 
 - **KMP algorithm (Knuth–Morris–Pratt)**
   - [LC28](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
