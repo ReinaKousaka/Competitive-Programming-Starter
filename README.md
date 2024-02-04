@@ -93,6 +93,9 @@ This repo contains some of my personal solutions to  **LeetCode, Codeforces, Luo
     [LC214](https://leetcode.com/problems/shortest-palindrome/)
     [LC3008](https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii/)
 
+- **Z function**
+  - [LC3031](LeetCode/3031/3031.cpp)
+
 ## Graph Theory
 
 - **BFS, DFS (Backtrack)**
